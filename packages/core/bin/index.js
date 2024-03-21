@@ -1,3 +1,3 @@
 #! node
 
-console.log('hello baiguochu-cli-dev')
+console.log('hello baiguochu-cli-dev~~')
