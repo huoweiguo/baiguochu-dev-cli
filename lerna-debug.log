@@ -1,0 +1,17 @@
+0 silly argv {
+0 silly argv   _: [ 'link' ],
+0 silly argv   lernaVersion: '6.6.2',
+0 silly argv   '$0': 'C:\\Users\\34994\\AppData\\Roaming\\npm\\node_modules\\lerna\\dist\\cli.js'
+0 silly argv }
+1 notice cli v6.6.2
+2 verbose rootPath D:\demo\baiguochu-cli-dev\baiguochu-cli-dev
+3 error Error: Invalid package name "baiguochu-cli-dev/core": name can only contain URL-friendly characters
+3 error     at invalidPackageName (D:\demo\baiguochu-cli-dev\baiguochu-cli-dev\node_modules\npm-package-arg\npa.js:89:15)
+3 error     at Result.setName (D:\demo\baiguochu-cli-dev\baiguochu-cli-dev\node_modules\npm-package-arg\npa.js:124:11)
+3 error     at new Result (D:\demo\baiguochu-cli-dev\baiguochu-cli-dev\node_modules\npm-package-arg\npa.js:114:23)
+3 error     at Function.resolve (D:\demo\baiguochu-cli-dev\baiguochu-cli-dev\node_modules\npm-package-arg\npa.js:61:15)
+3 error     at D:\demo\baiguochu-cli-dev\baiguochu-cli-dev\node_modules\@lerna\legacy-package-management\dist\index.js:639:61
+3 error     at Array.forEach (<anonymous>)
+3 error     at D:\demo\baiguochu-cli-dev\baiguochu-cli-dev\node_modules\@lerna\legacy-package-management\dist\index.js:619:42
+3 error     at PackageGraph.forEach (<anonymous>)
+3 error     at new PackageGraph (D:\demo\baiguochu-cli-dev\baiguochu-cli-dev\node_modules\@lerna\legacy-package-management\dist\index.js:612:14)
