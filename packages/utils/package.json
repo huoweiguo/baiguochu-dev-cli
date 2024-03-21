@@ -1,6 +1,6 @@
 {
   "name": "@baiguochu-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "baiguochu-cli-dev utils",
   "author": "huoweiguo <'huoweiguo123'>",
   "homepage": "",
@@ -11,7 +11,7 @@
     "test": "__tests__"
   },
   "dependencies": {
-    "@baiguochu-cli-dev/core": "1.0.0"
+    "@baiguochu-cli-dev/core": "^1.0.1"
   },
   "files": [
     "lib"
